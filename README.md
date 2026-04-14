@@ -1,4 +1,5 @@
-https://diwakarchaudhary07.github.io/my-portfolio/
+![Diwakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=diwakarchaudhary07&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diwakarchaudhary07&theme=radical)
 ## Hi there 👋
 <!--
 **diwakarchaudhary07/diwakarchaudhary07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

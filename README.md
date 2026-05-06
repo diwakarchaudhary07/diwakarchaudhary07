@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Arsenal
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode,linux" />
 </p>
 
@@ -27,8 +27,8 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diwakarchaudhary07&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=diwakarchaudhary07&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diwakarchaudhary07&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=diwakarchaudhary07&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
@@ -37,14 +37,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarchaudhary07&theme=react-dark" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://diwakarchaudhary07.github.io/my-portfolio/">🌍 Portfolio</a>
 </p>
 
 <!--

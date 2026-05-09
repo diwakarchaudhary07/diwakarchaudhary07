@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Diwakar%20Chaudhary&fontSize=90" width="100%" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Diwakar Chaudhary</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
@@ -54,4 +54,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarchaudhary07&layout=compact&theme=tokyonight" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarchaudhary07&theme=tokyonight" width="100%" />
 </p>

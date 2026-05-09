@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://my-octocat.github.com/assets/images/generator/scuba-octocat.png" width="100%" />
+  <img src="https://www.magnific.com/premium-ai-image/visual-developer-debugging-backend-issues-using-tools-like-postman-insomnia_297202770.htm#fromView=search&page=1&position=16&uuid=b3165891-60a4-4d44-9711-c650935f90a8&query=Coding+portfolio++animation" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Diwakar Chaudhary</h1>
@@ -56,5 +56,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarchaudhary07&layout=compact&theme=tokyonight" height="170" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarchaudhary07&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarchaudhary07&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&theme=react-dark" width="100%" />
 </p>

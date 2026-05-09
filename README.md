@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Diwakar%20Chaudhary&fontSize=70&fontAlignY=40&animation=twinkling&desc=Aspiring%20Web%20Developer&descAlignY=60&descSize=25" width="100%" />
-</p>
+<div align="center">
+  <img src="https://my-octocat.github.com/assets/images/generator/scuba-octocat.png" width="100%" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Diwakar Chaudhary</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>

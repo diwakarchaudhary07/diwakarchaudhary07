@@ -1,55 +1,65 @@
-<h1 align="center">👋 Hi, I'm Diwakar Chaudhary</h1>
-<h3 align="center">BCA Student | Aspiring Web Developer | Tech Enthusiast</h3>
-
----
-
-<h2 align="center">🚀 Learning Full-Stack Development</h2>
-
----
-
-## 📚 Developer Snapshot
-
-🎓 **Education:** Currently pursuing **BCA**  
-📘 **Learning:** DSA, Web Technologies, Python  
-🚀 **Goal:** Build real-world projects  
-💻 **Languages:** C, Python, HTML, CSS, JavaScript  
-
----
-
-## 🛠️ Tech Arsenal
+<h1 align="center">Hi 👋, I'm Diwakar Chaudhary</h1>
+<p align="center">
+  <strong>BCA Student | Aspiring Web Developer | Tech Enthusiast</strong>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode,linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=🚀+Learning+Full-Stack+Development;+Building+Django+Projects;+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+### 📚 Developer Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diwakarchaudhary07&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=diwakarchaudhary07&theme=tokyonight&hide_border=true" width="49%" />
+- 🎓 **Education:** Currently pursuing BCA
+- 📖 **Learning:** DSA, Web Technologies, Python, Machine Learning
+- 🚀 **Goal:** Build real-world projects and scalable applications
+- 💻 **Languages:** C, Python, HTML, CSS, JavaScript, Django
+- ⚡ **Fun fact:** I love coding and solving complex problems
+
+---
+
+### 🛠 Tech Arsenal
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,c,cpp,html,css,js,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+### 🌐 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarchaudhary07&theme=react-dark" />
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-username">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/your-instagram-username">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="mailto:yourgmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
-<!--
-**diwakarchaudhary07/diwakarchaudhary07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Activity & Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakarchaudhary07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarchaudhary07&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarchaudhary07&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarchaudhary07&theme=tokyonight" width="100%" />
+</p>

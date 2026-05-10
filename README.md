@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://www.magnific.com/premium-ai-image/visual-developer-debugging-backend-issues-using-tools-like-postman-insomnia_297202770.htm#fromView=search&page=1&position=16&uuid=b3165891-60a4-4d44-9711-c650935f90a8&query=Coding+portfolio++animation" width="100%" />
-</div>
 
+<img 
+src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/a_detailed_cinematic_digital_art_animated_scene.png" 
+width="900" 
+alt="Boy Coding Animation"
+/>
+
+</div>
 <h1 align="center">Hi 👋, I'm Diwakar Chaudhary</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 

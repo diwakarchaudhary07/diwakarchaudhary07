@@ -5,10 +5,6 @@
 <h1 align="center">Hi 👋, I'm Diwakar Chaudhary</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=diwakarchaudhary07&label=Profile%20views&color=0e75b6&style=flat" alt="diwakarchaudhary07" />
-</p>
-
 ---
 
 <table border="0">
@@ -30,37 +26,11 @@
       </p>
     </td>
     <td width="50%" align="center">
-  <!DOCTYPE html>
-<html>
-<head>
-    <title>Boys Hacker GIF</title>
-    <style>
-        body{
-            background:black;
-            display:flex;
-            justify-content:center;
-            align-items:center;
-            height:100vh;
-        }
-
-        img{
-            border:3px solid cyan;
-            border-radius:15px;
-            box-shadow:0px 0px 20px cyan;
-        }
-    </style>
-</head>
-
-<body>
-
-    <img 
+   <img 
     src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
     width="350"
     />
-
-</body>
-</html>
-    </td>
+   </td>
   </tr>
 </table>
 

@@ -1,11 +1,3 @@
-<div align="center">
-
-<img 
-src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/a_detailed_cinematic_digital_art_animated_scene.png" 
-width="900" 
-alt="Boy Coding Animation"
-/>
-
 </div>
 <h1 align="center">Hi 👋, I'm Diwakar Chaudhary</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
@@ -31,10 +23,11 @@ alt="Boy Coding Animation"
       </p>
     </td>
     <td width="50%" align="center">
-   <img 
-    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
-    width="350"
-    />
+ <img 
+src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/a_detailed_cinematic_digital_art_animated_scene.png" 
+width="900" 
+alt="Boy Coding Animation"
+/>
    </td>
   </tr>
 </table>

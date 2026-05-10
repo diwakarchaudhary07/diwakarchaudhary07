@@ -30,10 +30,36 @@
       </p>
     </td>
     <td width="50%" align="center">
-     <img 
-src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
-width="350"
-/>
+  <!DOCTYPE html>
+<html>
+<head>
+    <title>Boys Hacker GIF</title>
+    <style>
+        body{
+            background:black;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            height:100vh;
+        }
+
+        img{
+            border:3px solid cyan;
+            border-radius:15px;
+            box-shadow:0px 0px 20px cyan;
+        }
+    </style>
+</head>
+
+<body>
+
+    <img 
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
+    width="350"
+    />
+
+</body>
+</html>
     </td>
   </tr>
 </table>

@@ -24,11 +24,12 @@
 
 ## 📈 GitHub Activity
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarchaudhary07&theme=tokyonight" height="180" alt="GitHub Streak" />
-</p>
-
+  <p align="center">
+     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=diwakarchaudhary07&show_icons=true&theme=tokyonight&hide_border=true"
+            width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarchaudhary07&theme=tokyonight&hide_border=true"
+            width="48%" />
+  </p>
 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>

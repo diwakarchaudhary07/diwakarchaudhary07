@@ -24,9 +24,10 @@
 
 ## 📈 GitHub Activity
 
+  
   <p align="center">
-     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=diwakarchaudhary07&show_icons=true&theme=tokyonight&hide_border=true"
-            width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diwakarchaudhary07&theme=tokyonight" width="100%" />
+
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarchaudhary07&theme=tokyonight&hide_border=true"
             width="48%" />
   </p>

@@ -22,20 +22,24 @@
 
 ---
 
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=diwakarchaudhary07&theme=tokyonight&hide_border=true" width="68%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarchaudhary07&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+
+
 ## 📈 GitHub Activity
-
-  
-  <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diwakarchaudhary07&theme=tokyonight" width="100%" />
-
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarchaudhary07&theme=tokyonight&hide_border=true"
-            width="48%" />
-  </p>
-
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarchaudhary07&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&theme=react-dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diwakarchaudhary07&theme=tokyonight" width="100%" />
 </p>

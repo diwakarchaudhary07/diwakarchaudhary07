@@ -1,45 +1,77 @@
 <div align="center">
-  <h1>👋 Hi, I'm 𝘿𝙞𝙬𝙖𝙠𝙖𝙧 𝘾𝙝𝙖𝙪𝙙𝙝𝙖𝙧𝙮</h1>
-  <p><b>BCA Student | Aspiring Web Developer | Tech Enthusiast</b></p>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Building+Creative+Projects;Learning+New+Technologies;Problem+Solver" alt="Typing SVG" />
+
+# 👋 Hi, I'm Diwakar Chaudhary
+
+### BCA Student | Aspiring Web Developer | Tech Enthusiast
+
+<img src="./github-overview.svg" width="100%" alt="Diwakar Chaudhary GitHub Overview"/>
+
+<br>
+
+<a href="https://github.com/diwakarchaudhary07">
+  <img src="https://img.shields.io/github/followers/diwakarchaudhary07?label=Followers&style=for-the-badge" />
+</a>
+<a href="https://github.com/diwakarchaudhary07?tab=repositories">
+  <img src="https://img.shields.io/github/stars/diwakarchaudhary07?style=for-the-badge" />
+</a>
+
 </div>
 
 ---
 
-## 👨‍💻 Developer Snapshot
-* 🎓 **Education:** Currently pursuing **BCA**
-* 📚 **Learning:** Deep diving into **DSA**, **Web Technologies**, and **Python**
-* 🚀 **Goal:** Building creative projects that solve real-world problems.
-* 💻 **Languages:** C, Python, HTML, CSS, JavaScript
+## 🧑‍💻 About Me
 
----
+- 🎓 BCA Student
+- 🌐 Aspiring Full Stack Developer
+- 🐍 Currently working with Python & Django
+- ☕ Learning Java and Data Structures
+- 🗄️ Working with PostgreSQL & SQLite
+- 🤖 Interested in AI & Machine Learning
+- 🚀 Building practical projects to improve my development skills
 
-## 🛠️ Tech Arsenal
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode,linux" />
-</p>
+## 🛠️ Technologies
 
----
+**Languages:** C, Python, Java, JavaScript
 
+**Frontend:** HTML, CSS, Bootstrap
 
+**Backend:** Django, FastAPI
 
+**Database:** PostgreSQL, SQLite, SQL
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=diwakarchaudhary07&theme=tokyonight&hide_border=true" width="68%" />
-</p>
+**Tools:** Git, GitHub, VS Code
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarchaudhary07&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
+## 📌 Featured Projects
 
+### 🛒 Easy Kart
+Django-based e-commerce platform featuring authentication, products, wishlist, cart, payments, orders and user profiles.
 
+### 🚀 FastAPI CRUD
+REST API built with Python, FastAPI, SQLAlchemy, SQLite, Pydantic and Uvicorn for student CRUD operations.
 
-## 📈 GitHub Activity
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i>
-</p>
+### 📦 Inventory Management
+Django inventory management system for products, categories, stock, CRUD operations and database records.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diwakarchaudhary07&theme=tokyonight" width="100%" />
-</p>
+### 🎓 Student Management
+Django CRUD application for student registration, update, delete, search and database management.
+
+## 🎯 Current Goals
+
+- Master Python & Django
+- Become a Full Stack Developer
+- Improve Java & Data Structures
+- Learn advanced database concepts
+- Explore AI & Machine Learning
+- Prepare for software development placements
+
+<div align="center">
+
+### 🔥 Keep coding! 🧗‍♂️
+
+**Code → Learn → Build → Improve → Repeat 🚀**
+
+### 🚀 Thanks for visiting my profile!
+
+⭐ If you like my projects, consider giving them a star!
+
+</div>

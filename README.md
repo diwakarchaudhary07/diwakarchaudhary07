@@ -45,7 +45,8 @@
 Django-based e-commerce platform featuring authentication, products, wishlist, cart, payments, orders and user profiles.
 
 ### 🚀 FastAPI CRUD
-REST API built with Python, FastAPI, SQLAlchemy, SQLite, Pydantic and Uvicorn for student CRUD operations.
+
+<img src="./github-overview(2).svg" width="100%" alt="Diwakar Chaudhary GitHub Overview"/>
 
 ### 📦 Inventory Management
 Django inventory management system for products, categories, stock, CRUD operations and database records.

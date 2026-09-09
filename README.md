@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Diwakar Chaudhary
 
-### BCA Student | Aspiring Web Developer | Tech Enthusiast
 
 <img src="./github-overview.svg" width="100%" alt="Diwakar Chaudhary GitHub Overview"/>
 

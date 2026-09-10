@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-## 📌 Featured Projects
+## 📌 COMPLETE Projects ✅
 
 ### 🛒 Easy Kart
 

@@ -27,17 +27,30 @@
 - 🤖 Interested in AI & Machine Learning
 - 🚀 Building practical projects to improve my development skills
 
-## 🛠️ Technologies
+## 🛠️ Technologies / 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,java,js" />
+</p>
 
-**Languages:** C, Python, Java, JavaScript
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
-**Frontend:** HTML, CSS, Bootstrap
+## ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
 
-**Backend:** Django, FastAPI
+## 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" />
+</p>
 
-**Database:** PostgreSQL, SQLite, SQL
-
-**Tools:** Git, GitHub, VS Code
+## 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ## 📌 Featured Projects
 

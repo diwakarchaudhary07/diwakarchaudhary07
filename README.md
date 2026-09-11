@@ -63,9 +63,9 @@
 <b> PROFILE </b>
 
 <p >
-  <img src="./output%25201%25281%2529.jpg" width="32%" alt="EasyKart Home" align="left">
+  <img src="./output%25201%25281%2529.jpg" width="31.5%" alt="EasyKart Home" align="left">
   <img src="./output2.jpg" width="32%" alt="EasyKart User Profile" align="center">
-  <img src="./output%25203%20(1).jpg" width="32%" alt="Profile" align="right">
+  <img src="./output%25203%20(1).jpg" width="31.5%" alt="Profile" align="right">
 
 </p>
 Django-based e-commerce platform featuring authentication, products, wishlist, cart, payments, orders and user profiles.

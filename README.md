@@ -3,16 +3,30 @@
 
 
 <img src="./github-overview.svg" width="100%" alt="Diwakar Chaudhary GitHub Overview"/>
+<h2 align="center">📊 GitHub Activity</h2>
 
+<p align="center">
+  <img
+    src="./repository-activity.svg"
+    width="49%"
+    alt="Repository Activity"
+  />
+  <img
+    src="./activity-by-day.svg"
+    width="49%"
+    alt="Activity by Day of Week"
+  />
+</p>
 <br>
-
+⭐⭐⭐
 <a href="https://github.com/diwakarchaudhary07">
   <img src="https://img.shields.io/github/followers/diwakarchaudhary07?label=Followers&style=for-the-badge" />
 </a>
+
 <a href="https://github.com/diwakarchaudhary07?tab=repositories">
   <img src="https://img.shields.io/github/stars/diwakarchaudhary07?style=for-the-badge" />
 </a>
-
+⭐⭐⭐
 </div>
 
 ---

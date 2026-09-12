@@ -69,6 +69,7 @@
 ## 📌 COMPLETE Projects ✅
 
 ### 🛒 Easy Kart
+link🔗 https://e-commerce-6-zims.onrender.com/
 
 <b> HOME </b>
 /

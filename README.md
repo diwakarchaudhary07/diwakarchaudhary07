@@ -87,7 +87,9 @@ Django-based e-commerce platform featuring authentication, products, wishlist, c
 
 ### 🚀 FastAPI CRUD
 
-<img src="./github-overview(2).svg" width="100%" alt="Diwakar Chaudhary GitHub Overview"/>
+<img src="./Screenshot%202026-09-13%20004411.png" width="33%" alt="fastapi_crud"/>
+
+FastAPI CRUD is a Python-based REST API project built with FastAPI, SQLAlchemy, and SQLite. It performs basic Create, Read, Update, and Delete (CRUD) operations for student records such as name, email, and course.
 
 ### 📦 Inventory Management
 Django inventory management system for products, categories, stock, CRUD operations and database records.

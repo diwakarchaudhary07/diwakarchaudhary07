@@ -1,7 +1,5 @@
 <div align="center">
-
-
-
+  
 <img src="./github-overview.svg" width="100%" alt="Diwakar Chaudhary GitHub Overview"/>
 <h2 align="center">📊 GitHub Activity</h2>
 

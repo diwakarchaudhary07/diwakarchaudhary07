@@ -91,6 +91,7 @@ FastAPI CRUD is a Python-based REST API project built with FastAPI, SQLAlchemy, 
 Django inventory management system for products, categories, stock, CRUD operations and database records.
 
 ### 🎓 Student Management
+
 Django CRUD application for student registration, update, delete, search and database management.
 
 ## 🎯 Current Goals
@@ -101,7 +102,6 @@ Django CRUD application for student registration, update, delete, search and dat
 - Learn advanced database concepts
 - Explore AI & Machine Learning
 - Prepare for software development placements
-
 <div align="center">
 
 ### 🔥 Keep coding! 🧗‍♂️

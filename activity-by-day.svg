@@ -26,8 +26,8 @@
 <rect x="421.8" y="118.8" width="55" height="176.2" rx="4" fill="#f04b5d"/>
 <text x="439.78571428571433" y="108.77622377622376" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">126</text>
 <text x="433.78571428571433" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Fri</text>
-<rect x="506.1" y="99.2" width="55" height="195.8" rx="4" fill="#19bce8"/>
-<text x="524.0714285714287" y="89.19580419580419" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">140</text>
+<rect x="506.1" y="95.0" width="55" height="200.0" rx="4" fill="#19bce8"/>
+<text x="524.0714285714287" y="85.0" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">143</text>
 <text x="518.0714285714287" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Sat</text>
 <rect x="590.4" y="124.4" width="55" height="170.6" rx="4" fill="#e843a8"/>
 <text x="608.3571428571429" y="114.37062937062939" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">122</text>

@@ -111,6 +111,7 @@ Django CRUD application for student registration, update, delete, search and dat
 
 ### 🚀 Thanks for visiting my profile!
 
+
 ⭐ If you like my projects, consider giving them a star!
 
 </div>

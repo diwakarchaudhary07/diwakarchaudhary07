@@ -15,6 +15,7 @@
     width="49%"
     alt="Activity by Day of Week"
   />
+  
 </p>
 <br>
 ⭐⭐⭐

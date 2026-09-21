@@ -12,8 +12,8 @@
 <text x="38" y="200" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">133</text>
 <text x="38" y="250" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">66</text>
 <text x="38" y="300" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">0</text>
-<rect x="79.2" y="237.1" width="27" height="57.9" rx="3" fill="#4d7cff"/>
-<text x="84.1923076923077" y="230.10526315789474" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">77</text>
+<rect x="79.2" y="234.1" width="27" height="60.9" rx="3" fill="#4d7cff"/>
+<text x="84.1923076923077" y="227.09774436090225" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">81</text>
 <text x="79.1923076923077" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Sep</text>
 <rect x="124.6" y="292.0" width="27" height="3.0" rx="3" fill="#4d7cff"/>
 <text x="129.5769230769231" y="284.9924812030075" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">4</text>
@@ -48,7 +48,7 @@
 <rect x="578.4" y="239.4" width="27" height="55.6" rx="3" fill="#4d7cff"/>
 <text x="583.423076923077" y="232.3609022556391" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">74</text>
 <text x="578.423076923077" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Aug</text>
-<rect x="623.8" y="237.1" width="27" height="57.9" rx="3" fill="#4d7cff"/>
-<text x="628.8076923076924" y="230.10526315789474" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">77</text>
+<rect x="623.8" y="234.1" width="27" height="60.9" rx="3" fill="#4d7cff"/>
+<text x="628.8076923076924" y="227.09774436090225" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">81</text>
 <text x="623.8076923076924" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Sep</text>
 </svg>

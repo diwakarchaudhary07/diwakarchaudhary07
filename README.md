@@ -27,7 +27,6 @@
 </a>
 ⭐⭐⭐
 </div>
-
 ## 🧑‍💻 About Me
 
 - 🎓 BCA Student

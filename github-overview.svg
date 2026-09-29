@@ -32,19 +32,19 @@
 <rect x="40" y="220" width="190" height="105" rx="16" class="card"/>
 <text x="58" y="249" font-size="20">🔥</text>
 <text x="58" y="274" class="label">Current Streak</text>
-<text x="58" y="307" class="value">86 days</text>
+<text x="58" y="307" class="value">87 days</text>
 <rect x="250" y="220" width="190" height="105" rx="16" class="card"/>
 <text x="268" y="249" font-size="20">🏆</text>
 <text x="268" y="274" class="label">Longest Streak</text>
-<text x="268" y="307" class="value">86 days</text>
+<text x="268" y="307" class="value">87 days</text>
 <rect x="460" y="220" width="190" height="105" rx="16" class="card"/>
 <text x="478" y="249" font-size="20">💻</text>
 <text x="478" y="274" class="label">Commits (1Y)</text>
-<text x="478" y="307" class="value">951</text>
+<text x="478" y="307" class="value">952</text>
 <rect x="670" y="220" width="190" height="105" rx="16" class="card"/>
 <text x="688" y="249" font-size="20">🟩</text>
 <text x="688" y="274" class="label">Contributions (1Y)</text>
-<text x="688" y="307" class="value">984</text>
+<text x="688" y="307" class="value">985</text>
 <rect x="880" y="220" width="190" height="105" rx="16" class="card"/>
 <text x="898" y="249" font-size="20">📦</text>
 <text x="898" y="274" class="label">Repositories</text>
@@ -409,7 +409,8 @@
 <rect x="898" y="495" width="12" height="12" rx="3" fill="#064e3b"/>
 <rect x="898" y="512" width="12" height="12" rx="3" fill="#064e3b"/>
 <rect x="915" y="410" width="12" height="12" rx="3" fill="#064e3b"/>
-<rect x="915" y="427" width="12" height="12" rx="3" fill="#0b2233"/>
+<rect x="915" y="427" width="12" height="12" rx="3" fill="#064e3b"/>
+<rect x="915" y="444" width="12" height="12" rx="3" fill="#0b2233"/>
 <text x="48" y="530" class="small">Less</text>
 <rect x="86" y="520" width="12" height="12" rx="3" fill="#0b2233"/>
 <rect x="104" y="520" width="12" height="12" rx="3" fill="#064e3b"/>
@@ -421,18 +422,18 @@
 <line x1="40" y1="597" x2="1060" y2="597" stroke="#123b58"/>
 <rect x="40" y="615" width="500" height="245" rx="18" class="card"/>
 <text x="62" y="650" class="h2">📚 Most Used Languages</text>
-<circle cx="155" cy="750" r="72" fill="none" stroke="#3776AB" stroke-width="28" stroke-dasharray="426.65 25.74" stroke-dashoffset="0.00" transform="rotate(-90 155 750)"/>
-<circle cx="155" cy="750" r="72" fill="none" stroke="#E34F26" stroke-width="28" stroke-dasharray="10.92 441.47" stroke-dashoffset="-426.65" transform="rotate(-90 155 750)"/>
-<circle cx="155" cy="750" r="72" fill="none" stroke="#1572B6" stroke-width="28" stroke-dasharray="7.18 445.21" stroke-dashoffset="-437.57" transform="rotate(-90 155 750)"/>
-<circle cx="155" cy="750" r="72" fill="none" stroke="#F7DF1E" stroke-width="28" stroke-dasharray="6.27 446.12" stroke-dashoffset="-444.75" transform="rotate(-90 155 750)"/>
-<circle cx="155" cy="750" r="72" fill="none" stroke="#34d399" stroke-width="28" stroke-dasharray="0.69 451.70" stroke-dashoffset="-451.02" transform="rotate(-90 155 750)"/>
-<circle cx="155" cy="750" r="72" fill="none" stroke="#A8B9CC" stroke-width="28" stroke-dasharray="0.59 451.80" stroke-dashoffset="-451.71" transform="rotate(-90 155 750)"/>
+<circle cx="155" cy="750" r="72" fill="none" stroke="#3776AB" stroke-width="28" stroke-dasharray="426.98 25.41" stroke-dashoffset="0.00" transform="rotate(-90 155 750)"/>
+<circle cx="155" cy="750" r="72" fill="none" stroke="#E34F26" stroke-width="28" stroke-dasharray="10.87 441.52" stroke-dashoffset="-426.98" transform="rotate(-90 155 750)"/>
+<circle cx="155" cy="750" r="72" fill="none" stroke="#1572B6" stroke-width="28" stroke-dasharray="7.08 445.31" stroke-dashoffset="-437.84" transform="rotate(-90 155 750)"/>
+<circle cx="155" cy="750" r="72" fill="none" stroke="#F7DF1E" stroke-width="28" stroke-dasharray="6.12 446.27" stroke-dashoffset="-444.93" transform="rotate(-90 155 750)"/>
+<circle cx="155" cy="750" r="72" fill="none" stroke="#34d399" stroke-width="28" stroke-dasharray="0.67 451.72" stroke-dashoffset="-451.05" transform="rotate(-90 155 750)"/>
+<circle cx="155" cy="750" r="72" fill="none" stroke="#A8B9CC" stroke-width="28" stroke-dasharray="0.57 451.82" stroke-dashoffset="-451.72" transform="rotate(-90 155 750)"/>
 <circle cx="155" cy="750" r="42" fill="#031426"/>
 <text x="155" y="747" text-anchor="middle" class="small">Top</text>
 <text x="155" y="764" text-anchor="middle" class="small">Languages</text>
 <circle cx="258" cy="677" r="6" fill="#3776AB"/>
 <text x="272" y="682" class="small">Python</text>
-<text x="470" y="682" text-anchor="end" class="small">94.3%</text>
+<text x="470" y="682" text-anchor="end" class="small">94.4%</text>
 <circle cx="258" cy="703" r="6" fill="#E34F26"/>
 <text x="272" y="708" class="small">HTML</text>
 <text x="470" y="708" text-anchor="end" class="small">2.4%</text>
@@ -444,17 +445,17 @@
 <text x="470" y="760" text-anchor="end" class="small">1.4%</text>
 <circle cx="258" cy="781" r="6" fill="#38bdf8"/>
 <text x="272" y="786" class="small">PowerShell</text>
-<text x="470" y="786" text-anchor="end" class="small">0.2%</text>
+<text x="470" y="786" text-anchor="end" class="small">0.1%</text>
 <circle cx="258" cy="807" r="6" fill="#A8B9CC"/>
 <text x="272" y="812" class="small">C</text>
 <text x="470" y="812" text-anchor="end" class="small">0.1%</text>
 <rect x="560" y="615" width="500" height="245" rx="18" class="card"/>
 <text x="582" y="650" class="h2">🔥 Coding Streak</text>
 <text x="582" y="690" class="label">Current Streak</text>
-<text x="582" y="725" class="value">86 days</text>
+<text x="582" y="725" class="value">87 days</text>
 <line x1="805" y1="672" x2="805" y2="750" stroke="#164e70"/>
 <text x="830" y="690" class="label">Longest Streak</text>
-<text x="830" y="725" class="value">86 days</text>
+<text x="830" y="725" class="value">87 days</text>
 <rect x="582" y="770" width="435" height="45" rx="10" fill="#053b3a"/>
 <text x="602" y="798" class="small">Live GitHub activity — updated automatically.</text>
 <text x="40" y="900" class="h2">🧑‍💻 Developer Profile</text>
@@ -477,8 +478,8 @@
 <text x="823" y="990" class="small">PostgreSQL • SQLite • SQL</text>
 <text x="40" y="1070" class="h2">🛠️ Live GitHub Metrics</text>
 <line x1="40" y1="1082" x2="1060" y2="1082" stroke="#123b58"/>
-<text x="45" y="1110" class="small">Contributions: 984</text>
-<text x="250" y="1110" class="small">Commits: 951</text>
+<text x="45" y="1110" class="small">Contributions: 985</text>
+<text x="250" y="1110" class="small">Commits: 952</text>
 <text x="455" y="1110" class="small">Repositories: 33</text>
 <text x="660" y="1110" class="small">Followers: 7</text>
 <text x="865" y="1110" class="small">Stars: 0</text>

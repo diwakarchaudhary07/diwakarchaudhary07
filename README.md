@@ -89,9 +89,19 @@ FastAPI CRUD is a Python-based REST API project built with FastAPI, SQLAlchemy, 
 ### 📦 Inventory Management
 Django inventory management system for products, categories, stock, CRUD operations and database records.
 
-### 🎓 Student Management
+###  💻 My Portfolio 
+link🔗https://my-portfolio-1-zblf.onrender.com
 
-Django CRUD application for student registration, update, delete, search and database management.
+My Portfolio is a personal portfolio website built with HTML, CSS, and JavaScript, showcasing my skills, projects, achievements, certifications, and professional journey. 🚀
+### Work in Progress 🚧
+
+### Reelo 🎬
+
+Reelo is a short-video and social media website built using Django, featuring user profiles, reels, likes, comments, messaging, notifications, search, and content sharing. 🚀
+
+### StudyBee 📚
+
+StudyBee is an e-learning platform built using Django, designed for students to access online courses, live classes, recorded lectures, study materials, and track their learning progress. 🚀
 
 ## 🎯 Current Goals
 

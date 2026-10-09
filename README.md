@@ -89,7 +89,7 @@ FastAPI CRUD is a Python-based REST API project built with FastAPI, SQLAlchemy, 
 Django inventory management system for products, categories, stock, CRUD operations and database records.
 
 ###  💻 My Portfolio 
-link🔗https://my-portfolio-1-zblf.onrender.com
+https://diwakarchaudhary07.github.io/my-portfolio/
 
 My Portfolio is a personal portfolio website built with HTML, CSS, and JavaScript, showcasing my skills, projects, achievements, certifications, and professional journey. 🚀
 ### Work in Progress 🚧

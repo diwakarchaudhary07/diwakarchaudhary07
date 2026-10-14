@@ -39,7 +39,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c,python,java,js" />
 </p>
-
 ## 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />

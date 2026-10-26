@@ -78,7 +78,6 @@
 
 </p>
 Django-based e-commerce platform featuring authentication, products, wishlist, cart, payments, orders and user profiles.
-
 ### 🚀 FastAPI CRUD
 
 <img src="./Screenshot%202026-09-13%20004411.png" width="33%" alt="fastapi_crud"/>

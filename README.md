@@ -7,8 +7,6 @@
     width="49%"
     alt="Repository Activity"
   />
-
-
   <img
     src="./activity-by-day.svg"
     width="49%"

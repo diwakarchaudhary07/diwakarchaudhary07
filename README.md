@@ -42,7 +42,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
-
 ## ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi" />

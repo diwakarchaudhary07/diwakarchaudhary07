@@ -107,7 +107,6 @@ StudyBee is an e-learning platform built using Django, designed for students to 
 - Explore AI & Machine Learning
 - Prepare for software development placements
 <div align="center">
-
 ### 🔥 Keep coding! 🧗‍♂️
 
 **Code → Learn → Build → Improve → Repeat 🚀**

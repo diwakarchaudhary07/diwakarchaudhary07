@@ -25,7 +25,6 @@
 ⭐⭐⭐
 </div>
 ## 🧑‍💻 About Me
-
 - 🎓 BCA Student
 - 🌐 Aspiring Full Stack Developer
 - 🐍 Currently working with Python & Django

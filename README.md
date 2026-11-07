@@ -32,7 +32,6 @@
 - 🗄️ Working with PostgreSQL & SQLite
 - 🤖 Interested in AI & Machine Learning
 - 🚀 Building practical projects to improve my development skills
-
 ## 🛠️ Technologies / 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,python,java,js" />

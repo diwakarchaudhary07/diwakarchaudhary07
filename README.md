@@ -59,7 +59,6 @@
 
 ### 🛒 Easy Kart
 
-
 <b> HOME </b>
 /
 <b> CATEGORY</b>

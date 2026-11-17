@@ -64,7 +64,6 @@
 <b> CATEGORY</b>
 /
 <b> PROFILE </b>
-
 <p >
   <img src="./output%25201%25281%2529.jpg" width="31.5%" alt="EasyKart Home" align="left">
   <img src="./output2.jpg" width="32%" alt="EasyKart User Profile" align="center">
